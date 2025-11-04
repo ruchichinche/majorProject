@@ -3,6 +3,8 @@ import header_img from './header_img.png'
 import group_profiles from './group_profiles.png'
 import profile_pic from './profile_pic.png'
 import contact_image from './contact_image.png'
+import contact1_image from './contact1_image.png'
+
 import about_image from './about_image.png'
 import logo from './logo.png'
 import dropdown_icon from './dropdown_icon.svg'
@@ -33,6 +35,7 @@ import doc15 from './doc15.png'
 import Dermatologist from './Dermatologist.svg'
 import Gastroenterologist from './Gastroenterologist.svg'
 import General_physician from './General_physician.svg'
+import gynology from './gynology.png'
 import Gynecologist from './Gynecologist.svg'
 import Neurologist from './Neurologist.svg'
 import Pediatricians from './Pediatricians.svg'
@@ -49,6 +52,8 @@ export const assets = {
     profile_pic,
     arrow_icon,
     contact_image,
+    contact1_image,
+    gynology,
     about_image,
     menu_icon,
     cross_icon,

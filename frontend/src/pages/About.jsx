@@ -4,9 +4,10 @@ import { assets } from "../assets/assets";
 const About=()=>{
     return(
         <div>
+
             <div className="text-center text-2xl pt-10  text-gray-500">
                 <p>
-                    ABOUT <span className="text-gray-700 font-medium">US</span>
+                    ABOUT <span className="text-gray-700 font-medium">System</span>
                 </p>
             </div>
             <div className="my-10  flex flex-col md:flex-row gap-12">
@@ -24,6 +25,7 @@ Flexibility: Choose between in-person or virtual consultations.         <b class
     <p>Online doctor appointment booking services generally share a vision of making healthcare more accessible, efficient, and patient-centric through technology. The specific vision for a booking platform can be built around these core principles to reflect a company's specific goals.   </p>
                 </div>
             </div>
+            
         </div>
     )
 }

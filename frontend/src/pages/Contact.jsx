@@ -10,8 +10,8 @@ const Contact =()=>{
             <div className="my-10 flex flex-col justify-center md:flex-row gap-10 mb:28 text-sm"> 
                 <img className="w-full md:max-w-[360px]" src={assets.contact_image} alt="" />      
                 <div className="flex flex-col justify-center items-start gap-6">
-                    <p className="font-semibold text-lg text-gray-600">OUR OFFICE</p>
-                    <p  className="text-gray-500">45678 Vijaynagar <br /> Road 125, lg marg ,Indore</p>
+                    <p className="font-semibold text-lg text-gray-600">OUR Team</p>
+                    <p  className="text-gray-500">four star<br /> adress:khargone M.p</p>
                     <p className="text-gray-500">Tel:(123)-456-7890 <br /> Gmail : abc@gmail.com </p>
                     <p className="font-semibold text-lg">Careers at our System</p>
                     <p className="text-gray-500">Learn more about our teams .</p>
